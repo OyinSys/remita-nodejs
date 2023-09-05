@@ -1,4 +1,3 @@
-
 *Remita api for Split Payment, Mandate Setup, Mandate Request OTP, Activate Mandate, and Stop Mandate. All these made payment easy and fast.*
 
 ## Installation
